@@ -1,3 +1,7 @@
+#Fernando Ruiz Velasco Hernandez
+#A91229632
+#28/09/2023
+
 import csv
 
 def read_csv_to_dict(filename):
