@@ -3,6 +3,7 @@
 
 Es un proyecto basico para de inicio de session con flask
 
+Nota: El usuario y clave es Admin y Password1792
 
 
 
